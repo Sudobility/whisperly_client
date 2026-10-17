@@ -1,6 +1,6 @@
 {
   "name": "@sudobility/whisperly_client",
-  "version": "1.0.55",
+  "version": "1.0.56",
   "description": "React client library for Whisperly API with TanStack Query hooks",
   "type": "module",
   "main": "dist/index.js",
@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.39.2",
-    "@sudobility/di": "^1.5.69",
+    "@sudobility/di": "^1.5.70",
     "@sudobility/types": "^1.9.68",
     "@sudobility/whisperly_types": "^1.0.38",
     "@tanstack/react-query": "^5.90.5",
